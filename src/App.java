@@ -35,7 +35,7 @@ public class App {
         if(ans3==1){    //Om det valda alternativet = 1
             points++;   //Ökar poängen med 1
         }
-        System.out.println(""); //Nytt sty
+        System.out.println(""); //Nytt styckes
 
         System.out.println("Sveriges huvudstad?");  //Fråga 4
         System.out.println("1. Oslo");  //Alt 1
