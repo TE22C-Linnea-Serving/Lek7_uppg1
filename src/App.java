@@ -29,7 +29,7 @@ public class App {
         System.out.println("Vad heter Sydkoreas huvudstad?");   //Fråga 3
         System.out.println("1. Seoul"); //Alt 1
         System.out.println("2. Tokyo"); //Alt 2
-        System.out.println("3. Pusan"); //Alt 3
+        System.out.println("3. Peking"); //Alt 3
         System.out.println("4. Hongkong");  //Alt 4
         int ans3 = tangentbord.nextInt();   //Tar in alternativet användaren valde
         if(ans3==1){    //Om det valda alternativet = 1
